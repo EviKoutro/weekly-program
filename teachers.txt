@@ -1,0 +1,19 @@
+000 George 01 7 21
+001 Maria 02 6 21
+010 Nick 03 5 19
+100 Paul 04 5 19
+011 Kostas 05 5 24
+110 Penny 07 7 24
+101 Anna 06 7 24
+111 Bill 08 6 21
+002 Jim 09 7 36
+020 Luke 01 7 21
+200 Justin 02 6 21
+220 Bella 03 5 19
+022 Bod 04 5 19
+202 Shane 05 5 24
+222 Anna 07 7 24
+003 Maria 06 7 24
+033 Finn 08 6 21
+
+

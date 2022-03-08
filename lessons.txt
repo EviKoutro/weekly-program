@@ -1,0 +1,30 @@
+01 Mathematics A 3
+02 Physics A 4
+03 Chemistry A 3
+04 Biology A 3
+05 Informatics A 3
+06 English A 3
+07 Greek A 4
+08 History A 4
+09 Gymnastics A 4
+01 Mathematics B 5
+02 Physics B 5
+03 Chemistry B 2
+04 Biology B 2
+05 Informatics B 4
+06 English B 5
+07 Greek B 4
+08 History B 4
+09 Gymnastics B 2
+01 Mathematics C 2
+02 Physics C 2
+03 Chemistry C 4
+04 Biology C 4
+05 Informatics C 4
+06 English C 4
+07 Greek C 4
+08 History C 4
+09 Gymnastics C 3
+
+
+
